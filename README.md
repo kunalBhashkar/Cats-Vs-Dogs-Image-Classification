@@ -12,5 +12,5 @@ Steps of this program:
 
 i.  Get the data into python.
 ii. Prepare the data for the algorithm.
-iii.Define the network architecture.
+iii.Define the Model.
 iv. Train the model and get the results.
